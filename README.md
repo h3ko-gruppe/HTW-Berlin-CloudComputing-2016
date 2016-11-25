@@ -16,7 +16,7 @@ Wenn Sie NodeJs richtig auf Ihrem System installiert haben, können Sie in der E
 
 ## Abgabe 1:
 
-Vorbereitung zum 02.12.206: Bitte informieren Sie sich über das [HTTP](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol). Protokoll
+Vorbereitung zum 02.12.206: Bitte informieren Sie sich über das [HTTP](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol) Protokoll.
 
 Sie haben die Aufgabe, eine Webanwendung in der Cloud bereitzustellen. Bevor Sie das Programm auf einem Server installieren, sollen Sie lokal an Ihrem Computer testen, ob das Programm auch wie gewünscht funktioniert.   
 1. Führen Sie die Anwendung [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) auf Ihrem Computer aus.  
