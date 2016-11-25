@@ -7,6 +7,11 @@
 - Virtuelles Windows 10: https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
 - Azure Pass: https://www.microsoftazurepass.com/
 
+## Hello Node:
+Wenn Sie NodeJs richtig auf Ihrem System installiert haben, können Sie in der Eingabeaufforderung folgenden Code ausführen:
+
+![HelloNode](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/img/HelloNode.png "HelloNode")
+
 
 ## Abgabe 1:
 
