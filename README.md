@@ -5,6 +5,7 @@
 ## Vorbereitung:
 - Node.js: https://nodejs.org/en/
 - Virtuelles Windows 10: https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
+- Azure Pass: https://www.microsoftazurepass.com/
 
 
 ## Abgabe 1:
