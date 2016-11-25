@@ -6,6 +6,7 @@
 - Node.js: https://nodejs.org/en/
 - Virtuelles Windows 10: https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
 - Azure Pass: https://www.microsoftazurepass.com/
+- Microsoft Account erstellen: https://account.microsoft.com/
 
 ## Hello Node:
 Wenn Sie NodeJs richtig auf Ihrem System installiert haben, können Sie in der Eingabeaufforderung folgenden Code ausführen:
