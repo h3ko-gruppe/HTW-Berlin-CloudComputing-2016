@@ -33,7 +33,10 @@ Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als �
 Parameter "ln": Ihren Nachnamen.  
 Parameter "fn": Ihren Vornamen.  
 Übermitteln Sie außerdem eine E-Mail-Adresse Ihrer Wahl im Nachrichtenkörper.
-Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „02-SimpleJsonPost.txt“.
+Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „02-SimpleJsonPost.txt“.  
+
+Bonus-Aufgabe:
+Ändern Sie den Code der [02-SimpleJsonPost.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/02-SimpleJsonPost.js)-Anwendung so ab, dass die Anwendung in der Lage ist, in der Antwort-Nachricht den Benutzernamen und das Kennwort im Klartext anzuzeigen, sofern sich der Client mit der "Basic"-Authentication authentifiziert hat.
 
 ## Berlin Cloud Computing Meetup
 - Montag, 12. Dezember 2016, 19.00 Uhr: [Azure - Sensordaten mit IoT Hub und Tensorflow mit Docker auf GPU accelerated VM](https://www.meetup.com/de-DE/Berlin-Cloud/events/235891833/)
