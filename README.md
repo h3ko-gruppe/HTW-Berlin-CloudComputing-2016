@@ -35,6 +35,9 @@ Parameter "fn": Ihren Vornamen.
 Übermitteln Sie außerdem eine E-Mail-Adresse Ihrer Wahl im Nachrichtenkörper.
 Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „02-SimpleJsonPost.txt“.
 
+## Berlin Cloud Computing Meetup
+- Montag, 12. Dezember 2016, 19.00 Uhr: [Azure - Sensordaten mit IoT Hub und Tensorflow mit Docker auf GPU accelerated VM](https://www.meetup.com/de-DE/Berlin-Cloud/events/235891833/)
+
 ## Abgabe 2:
 
 //TODO rherlt: enter some awesome text here!
