@@ -20,6 +20,15 @@ Sie haben die Aufgabe, eine Webanwendung in der Cloud bereitzustellen. Bevor Sie
 2. Rufen Sie die Anwendung im Browser auf.  
 3. Erstellen Sie eine HTTP-GET-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Get.txt“  
 4. Erstellen Sie eine HTTP-POST-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Post.txt“  
+5. Führen Sie die Anwendung [01-SimpleGet.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/01-SimpleGet.js) auf Ihrem Computer aus. Erstellen Sie eine HTTP-GET-Anfrage mithilfe eines HTTP-Debug-Programms. Übergeben Sie folgende Parameter im Query-String:  
+Parameter "ln": Ihren Nachnamen.  
+Parameter "fn": Ihren Vornamen.  
+Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „01-SimpleGet.txt“.
+6. Führen Sie die Anwendung [02-SimpleJsonPost.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/02-SimpleJsonPost.js) auf Ihrem Computer aus. Erstellen Sie eine HTTP-POST-Anfrage mithilfe eines HTTP-Debug-Programms. Übergeben Sie folgende Parameter im Query-String:  
+Parameter "ln": Ihren Nachnamen.  
+Parameter "fn": Ihren Vornamen.  
+Übermitteln Sie außerdem eine E-Mail-Adresse Ihrer Wahl im Nachrichtenkörper.
+Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „02-SimpleJsonPost.txt“.
 
 ## Abgabe 2:
 
