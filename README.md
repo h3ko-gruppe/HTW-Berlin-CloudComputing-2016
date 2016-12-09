@@ -55,5 +55,5 @@ Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Be
 
 Bonus-Aufgabe: //TODO rherlt  
 
-## Abgabe 2:
+## Abgabe 3:
 - //TODO rherlt
