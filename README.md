@@ -44,14 +44,16 @@ Bonus-Aufgabe:
 ## Abgabe 2:
 
 ![One does not simply run Node.js on Microsoft Azure](https://i.imgflip.com/alvg4.jpg "One does not simply run Node.js on Microsoft Azure")  
-Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) NodeJs-Anwendung in Microsoft Azure in Form von Platform as a Service auszuführen. Um diese Aufgabe zu bewerkstelligen, führen Sie folgende Teilaufgaben aus:  
+Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) NodeJs-Anwendung in Microsoft Azure in Form von Platform as a Service auszuführen. Um diese Aufgabe zu bewerkstelligen, führen Sie folgende Teilaufgaben aus:    
+
 1. Erstellen Sie ein neues, öffentlich erreichbares Github Quell-Code-Repository bei [github.com](https://github.com/)  
 2. Sorgen Sie dafür, dass Sie die eine Server.js mit dem Quellcode im Repository haben.  
 3. Zusätzlich benötigen Sie die Konfigurationsdateien [gulpfile.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/gulpfile.js) und [web.config](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/web.config) in Ihrem Repository, damit der Webserver in der Lage ist die eingehenden HTTP-Requests an die Node.js-Anwendung weiterzuleiten.
 4. Verknüpfen Sie Ihr Github-Repository mit Ihrem Azure App Service und richten Sie [Continuous Delivery](https://de.wikipedia.org/wiki/Continuous_Delivery) ein.
 5. Sorgen Sie dafür, dass Sie die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js)-Anwendung erfolgreich ausführen können. (Hinweis: Listening-Port des Servers) 
 6. Erstellen Sie eine HTTP-GET-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Get.txt“  
-7. Erstellen Sie eine HTTP-POST-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Post.txt“  
+7. Erstellen Sie eine HTTP-POST-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Post.txt“    
+
 
 Bonus-Aufgabe: //TODO rherlt  
 
