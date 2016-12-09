@@ -55,7 +55,8 @@ Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Be
 7. Erstellen Sie eine HTTP-POST-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Post.txt“    
 
 
-Bonus-Aufgabe: //TODO rherlt  
-
+Bonus-Aufgaben:  
+1. Sorgen Sie dafür, dass die [03-BasicAuth.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/03-BasicAuth.js)-Anwendung bei Ihnen läuft. Erstellen Sie dafür die notwendigen HTTP-Anfragen aus der Bonus-Aufgabe der vergangenen Woche.  
+2. TBD  
 ## Abgabe 3:
 - //TODO rherlt
