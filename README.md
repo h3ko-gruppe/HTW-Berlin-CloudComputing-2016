@@ -57,6 +57,6 @@ Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Be
 
 Bonus-Aufgaben:  
 1. Sorgen Sie dafür, dass die [03-BasicAuth.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/03-BasicAuth.js)-Anwendung bei Ihnen läuft. Erstellen Sie dafür die notwendigen HTTP-Anfragen aus der Bonus-Aufgabe der vergangenen Woche.  
-2. TBD  
+2. Implementieren Sie eine NodeJs Anwendung, die für einen Request die aktuelle Prozess-Id (des NodeJS-Prozesses im Server-Betriebssystem) zurück liefert. Sorgen Sie dafür, dass Ihre Anwendung auf drei Instanzen skaliert wird. Führen sie viele Requests auf Ihre Anwendung aus. Wenn Sie alles richtig gemacht haben, sehen sie drei verschiedene, immer wiederkehrende Prozess-Ids. Exportieren Sie das Ergebnis mit dem Fiddler.   
 ## Abgabe 3:
 - //TODO rherlt
