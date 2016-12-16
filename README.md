@@ -74,4 +74,5 @@ Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Be
 8. Beschreiben Sie kurz Stichpunktartig für jede Teilaufgabe, wie Sie vorgegangen sind. Welches Betriebssystem wurde gewählt? Wie haben Sie sich mit der VM verbunden? Wie haben Sie die  [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) NodeJs-Anwendung auf die VM übertragen?
 
 Bonus-Aufgaben:  
-//TODO rherlt
+- Wenn Sie mit einer Windows VM gearbeitet haben: Machen Sie das gleiche mit einem Linux Betriebssystem!  
+- Wenn Sie mit einer Linux VM gearbeitet haben: Machen Sie das gleiche mit einem Windows Betriebssystem!  
