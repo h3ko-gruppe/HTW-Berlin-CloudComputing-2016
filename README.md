@@ -75,4 +75,18 @@ Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Be
 
 Bonus-Aufgaben:  
 - Wenn Sie mit einer Windows VM gearbeitet haben: Machen Sie das gleiche mit einem Linux Betriebssystem!  
-- Wenn Sie mit einer Linux VM gearbeitet haben: Machen Sie das gleiche mit einem Windows Betriebssystem!  
+- Wenn Sie mit einer Linux VM gearbeitet haben: Machen Sie das gleiche mit einem Windows Betriebssystem! 
+
+## Klausurvorbereitung:
+
+Sie befinden Sich im Umfeld Der in der Vorlesung behandelten Fallstudie: [Cloud Computing Studiengang IT Business (Master) Fallstudie – Teil 1](https://moodle.htw-berlin.de/pluginfile.php/369268/mod_resource/content/0/2016-10%20Fallstudie%20Cloud%20Computing%20-%20Teil%201_f.pdf).  
+
+Das Unternehmen hw3r AG hat seinen Online-Unternehmensauftritt erneuert. Dieser soll nun in der Cloud gehostet werden. Es wird erwartet, dass montalich mehr als 10.000 Besucher auf die neue Website zugreifen und sich pro Besuch 5 Unterseiten ansehen.  
+Sie werden bauftragt, drei geeignete Cloud-Hosting-Anbieter herauszusuchen und Ihrem Abteilungsleiter in einem fünf-minütigem Vortrag zu präsentieren. Außerdem soll bei der Präsentation der Preis und die Leistungs des Anbeiters gegenübergestellt werden.
+
+Anforderungen der Anwednung: 
+- Es ist ein [Drupal 7](https://de.wikipedia.org/wiki/Drupal) CMS System.
+- Es soll ein MySQL-Server verwendet werden.  
+- PAAS ist favorisiert, jedoch ist IAAS kein Ausschlusskriterium.
+
+Bereiten Sie den Vortrag in Form eines kurzen [Pitches](https://de.wikipedia.org/wiki/Agenturpitch) (maximal 5 Minuten) vor, in dem Sie versuchen Ihren Abteilungsleiter für eine der drei Lösungen zu begeistern.
