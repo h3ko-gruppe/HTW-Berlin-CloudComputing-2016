@@ -58,5 +58,20 @@ Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Be
 Bonus-Aufgaben:  
 1. Sorgen Sie dafür, dass die [03-BasicAuth.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/03-BasicAuth.js)-Anwendung bei Ihnen läuft. Erstellen Sie dafür die notwendigen HTTP-Anfragen aus der Bonus-Aufgabe der vergangenen Woche.  
 2. Implementieren Sie eine NodeJs Anwendung, die für einen Request die aktuelle Prozess-Id (des NodeJS-Prozesses im Server-Betriebssystem) zurück liefert. Sorgen Sie dafür, dass Ihre Anwendung auf drei Instanzen skaliert wird. Führen sie viele Requests auf Ihre Anwendung aus. Wenn Sie alles richtig gemacht haben, sehen sie drei verschiedene, immer wiederkehrende Prozess-Ids. Exportieren Sie das Ergebnis mit dem Fiddler. Hinweis: Sie benötigen dazu den Serviceplan Basic B1
+
 ## Abgabe 3:
-- //TODO rherlt
+
+![A 128GB RAM Linux VM in less than 5 minutes - Yes! Azure Can!](https://cdn.meme.am/instances/51302052.jpg "A 128GB RAM Linux VM in less than 5 minutes - Yes! Azure Can!")  
+Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) NodeJs-Anwendung in Microsoft Azure in Form von Infrastructure as a Service auszuführen. Um diese Aufgabe zu bewerkstelligen, führen Sie folgende Teilaufgaben aus: 
+
+1. Schauen Sie sich die Auswahl der Vituellen Maschienen an  
+2. Wählen Sie sorgfältig Ihr Betriebssystem aus. Berücksichtigen Sie, dass abhängig von Ihrer Wahl mehr oder meniger Aufwand erforderlich ist, um das Programm auszuführen.  
+3. Erstellen Sie die neue VM
+4. Verbinden Sie sich mit der VM und sorgen Sie dafür, dass die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) NodeJs-Anwendung auf der Maschiene zur Verfügung steht.
+5. Führen Sie die Anwendung aus.
+6. Erstellen Sie eine HTTP-GET-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Get.txt“  
+7. Erstellen Sie eine HTTP-POST-Anfrage mithilfe eines HTTP-Debug-Programms. Speichern Sie Ihre Anfrage und die Antwort des Servers in einer Textdatei als „HTTP-Post.txt“    
+8. Beschreiben Sie kurz Stichpunktartig für jede Teilaufgabe, wie Sie vorgegangen sind. Welches Betriebssystem wurde gewählt? Wie haben Sie sich mit der VM verbunden? Wie haben Sie die  [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2016/blob/master/HelloCloud.js) NodeJs-Anwendung auf die VM übertragen?
+
+Bonus-Aufgaben:  
+//TODO rherlt
